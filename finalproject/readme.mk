@@ -17,8 +17,8 @@ We can through these data to know more about a country and their citizens.
 ## Resources
 
 [idx]: https://github.com/stellaapril/Python2/tree/master/finalproject
-![picture](NYC.PNG)
+![picture](nyc.jpg)
 
 ##Coding
 
-![picture](coding.PNG)
+![picture](code.jpg)
